@@ -1,0 +1,17 @@
+C:\Users\jakub\source\repos\VykresleniSpiraly\VykresleniSpiraly\obj\Debug\net6.0-windows\VykresleniSpiraly.csproj.AssemblyReference.cache
+C:\Users\jakub\source\repos\VykresleniSpiraly\VykresleniSpiraly\obj\Debug\net6.0-windows\VykresleniSpiraly.Form1.resources
+C:\Users\jakub\source\repos\VykresleniSpiraly\VykresleniSpiraly\obj\Debug\net6.0-windows\VykresleniSpiraly.csproj.GenerateResource.cache
+C:\Users\jakub\source\repos\VykresleniSpiraly\VykresleniSpiraly\obj\Debug\net6.0-windows\VykresleniSpiraly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\source\repos\VykresleniSpiraly\VykresleniSpiraly\obj\Debug\net6.0-windows\VykresleniSpiraly.AssemblyInfoInputs.cache
+C:\Users\jakub\source\repos\VykresleniSpiraly\VykresleniSpiraly\obj\Debug\net6.0-windows\VykresleniSpiraly.AssemblyInfo.cs
+C:\Users\jakub\source\repos\VykresleniSpiraly\VykresleniSpiraly\obj\Debug\net6.0-windows\VykresleniSpiraly.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\VykresleniSpiraly\VykresleniSpiraly\bin\Debug\net6.0-windows\VykresleniSpiraly.exe
+C:\Users\jakub\source\repos\VykresleniSpiraly\VykresleniSpiraly\bin\Debug\net6.0-windows\VykresleniSpiraly.deps.json
+C:\Users\jakub\source\repos\VykresleniSpiraly\VykresleniSpiraly\bin\Debug\net6.0-windows\VykresleniSpiraly.runtimeconfig.json
+C:\Users\jakub\source\repos\VykresleniSpiraly\VykresleniSpiraly\bin\Debug\net6.0-windows\VykresleniSpiraly.dll
+C:\Users\jakub\source\repos\VykresleniSpiraly\VykresleniSpiraly\bin\Debug\net6.0-windows\VykresleniSpiraly.pdb
+C:\Users\jakub\source\repos\VykresleniSpiraly\VykresleniSpiraly\obj\Debug\net6.0-windows\VykresleniSpiraly.dll
+C:\Users\jakub\source\repos\VykresleniSpiraly\VykresleniSpiraly\obj\Debug\net6.0-windows\refint\VykresleniSpiraly.dll
+C:\Users\jakub\source\repos\VykresleniSpiraly\VykresleniSpiraly\obj\Debug\net6.0-windows\VykresleniSpiraly.pdb
+C:\Users\jakub\source\repos\VykresleniSpiraly\VykresleniSpiraly\obj\Debug\net6.0-windows\VykresleniSpiraly.genruntimeconfig.cache
+C:\Users\jakub\source\repos\VykresleniSpiraly\VykresleniSpiraly\obj\Debug\net6.0-windows\ref\VykresleniSpiraly.dll

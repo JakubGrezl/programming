@@ -1,0 +1,5 @@
+C:\Users\jakub\Desktop\VykresleniSpiraly.exe
+C:\Users\jakub\Desktop\VykresleniSpiraly.dll
+C:\Users\jakub\Desktop\VykresleniSpiraly.deps.json
+C:\Users\jakub\Desktop\VykresleniSpiraly.runtimeconfig.json
+C:\Users\jakub\Desktop\VykresleniSpiraly.pdb
